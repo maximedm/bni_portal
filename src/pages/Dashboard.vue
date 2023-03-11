@@ -24,6 +24,7 @@ import {
 } from '@heroicons/vue/24/outline'
 import { MagnifyingGlassIcon } from '@heroicons/vue/20/solid'
 import Responsibles from '../components/Responsibles.vue';
+import WhatsappGroups from '../components/WhatsappGroups.vue';
 
 defineProps(['search']);
 
@@ -66,14 +67,14 @@ const tools = [
         image: 'https://play-lh.googleusercontent.com/ijFZqfIrFuEn1i1ZSSa7gBlr5pTZgxDnaFxIzLjkw3Scm686q6Ffcbn1YUW7fORh_8o',
         name: 'BNI Connect',
         description: 'BNI Connect is the official BNI app for members and visitors. It is a powerful tool that allows you to connect with other BNI members and visitors, and to share your business with them.',
-        href: '#',
+        href: 'https://www.bniconnectglobal.com',
 
     },
     {
         image: 'https://play-lh.googleusercontent.com/xHpp6bjfK3EnUUvyRZLao2zTJZ7YfOpB8pzZalf66bLrabsYnClfBFCLYiTTcZPlbY4',
         name: 'BNI Business Builder',
         description: 'BNI Business Builder is the official BNI app for members and visitors. It is a powerful tool that allows you to connect with other BNI members and visitors, and to share your business with them.',
-        href: '#',
+        href: 'http://bnibusinessbuilder.com/',
     },
     {
         image: '/bni_sharepoint.jpg',
@@ -252,8 +253,10 @@ const recentHires = [
                 </div>
               </div>
             </section>
+            <WhatsappGroups />
           </div>
-
+        
+          
           <!-- Right column -->
           <div class="grid grid-cols-1 gap-4">
             <Responsibles :search="search" />
