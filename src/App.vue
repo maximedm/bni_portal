@@ -192,8 +192,8 @@ const search = ref();
           <!-- Logo -->
           <div class="absolute left-0 flex-shrink-0 py-5 lg:static">
             <a href="#">
-              <span class="sr-only">Your Company</span>
-              <svg class="h-16" viewBox="0 0 218 103" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <span class="sr-only">BNI</span>
+              <svg class="h-16 hidden md:block" viewBox="0 0 218 103" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M47.2157 32.4297C55.2007 34.3031 61.6067 40.2171 61.6067 49.6801C61.6067 61.8038 51.4541 69 35.6824 69H0V0.000652414H34.9933C47.2157 0.000652414 57.7626 4.534 57.7626 18.1374C57.7626 25.4315 52.3416 30.2614 47.2157 32.2333V32.4297ZM29.0787 26.9095C33.9086 26.9095 36.57 24.9385 36.57 21.4887C36.57 17.7431 34.5002 15.8698 29.5715 15.8698H21.1932V26.9095H29.0787ZM32.6277 53.1297C37.6547 53.1297 40.4143 51.4545 40.4143 47.6104C40.4143 44.1597 37.8516 42.2868 32.1347 42.2868H21.1932V53.1297H32.6277Z" fill="white"/>
                 <path d="M117.029 34.0072V-7.73616e-07H137.729V69H119.001L90.2179 32.5292H90.0213V69H69.1239V-7.73616e-07H90.0213L116.734 34.0072H117.029Z" fill="white"/>
                 <path d="M146.654 1.16173e-05H167.848L146.654 21.1058V1.16173e-05Z" fill="white"/>
@@ -241,7 +241,7 @@ const search = ref();
               </div>
               <div class="px-12 lg:px-0">
                 <!-- Search -->
-                <div class="mx-auto w-full max-w-xs lg:max-w-md">
+                <div class="mx-auto w-full max-w-xs lg:max-w-md hidden md:block">
                   <label for="search" class="sr-only">Search</label>
                   <div class="relative text-white focus-within:text-gray-600">
                     <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
@@ -255,7 +255,7 @@ const search = ref();
           </div>
 
           <!-- Menu button -->
-          <div class="absolute right-0 flex-shrink-0 lg:hidden">
+          <div class="absolute right-0 flex-shrink-0 lg:hidden" v-if="false">
             <!-- Mobile menu button -->
             <PopoverButton class="inline-flex items-center justify-center rounded-md bg-transparent p-2 text-cyan-200 hover:bg-white hover:bg-opacity-10 hover:text-white focus:outline-none focus:ring-2 focus:ring-white">
               <span class="sr-only">Open main menu</span>
