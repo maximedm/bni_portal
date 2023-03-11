@@ -76,19 +76,19 @@ const tools = [
         href: '#',
     },
     {
-        image: '/src/assets/bni_sharepoint.jpg',
+        image: '/bni_sharepoint.jpg',
         name: 'Sharepoint',
         description: 'Sharepoint where all the documents are stored',
         href: 'https://bnikempenmechelen.sharepoint.com/:f:/r/Gedeelde%20%20documenten/04%20-%20Chapters/BNI%20Maneblussers/BNI%20Maneblussers%20Chapter%20Folder?csf=1&web=1&e=keGJfN',
     },
     {
-        image: '/src/assets/bni_convert.jpg',
+        image: '/bni_convert.jpg',
         name: 'BNI Convert',
         description: 'To be announced? 😂',
         href: '#',
     },
     {
-        image: '/src/assets/bni_engage.jpg',
+        image: '/bni_engage.jpg',
         name: 'BNI Engage',
         description: 'To be announced? 😂',
         href: '#',
