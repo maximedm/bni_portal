@@ -19,7 +19,7 @@ const routes = [
   // keep it simple for now.
   const router = createRouter({
     // 4. Provide the history implementation to use. We are using the hash history for simplicity here.
-    history: createWebHashHistory(),
+    history: createWebHistory(import.meta.env.VITE_APP_BASE_PATH),
     routes, // short for `routes: routes`
   })
   
