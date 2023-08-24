@@ -27,6 +27,7 @@ import Responsibles from '../components/Responsibles.vue';
 import WhatsappGroups from '../components/WhatsappGroups.vue';
 import Layout from '../layouts/Layout.vue';
 import { ref } from 'vue';
+import Chapters from '../components/Chapters.vue';
 
 defineProps(['search']);
 
@@ -170,27 +171,16 @@ const search = ref();
 <template>
     
     <Layout>
-        <template #search>
-            <!-- Search -->
-            <div class="mx-auto w-full max-w-xs lg:max-w-md hidden md:block">
-                  <label for="search" class="sr-only">Search</label>
-                  <div class="relative text-white focus-within:text-gray-600">
-                    <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                      <MagnifyingGlassIcon class="h-5 w-5" aria-hidden="true" />
-                    </div>
-                    <input v-model="search" class="block w-full rounded-md border-0 bg-white/20 py-1.5 pl-10 pr-3 text-white placeholder:text-white focus:bg-white focus:text-gray-900 focus:ring-0 focus:placeholder:text-gray-500 sm:text-sm sm:leading-6" placeholder="Search" type="search" />
-                  </div>
-                </div>
-        </template>
+
     <main class="-mt-24 pb-8">
       <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <h1 class="sr-only">Profile</h1>
         <!-- Main 3 column grid -->
-        <div class="grid grid-cols-1 items-start gap-4 lg:grid-cols-3 lg:gap-8">
+        <div class="grid grid-cols-1 items-start gap-4 lg:gap-8">
           <!-- Left column -->
           <div class="grid grid-cols-1 gap-4 lg:col-span-2">
             <!-- Welcome panel -->
-            <section v-if="true" aria-labelledby="profile-overview-title">
+            <section v-if="false" aria-labelledby="profile-overview-title">
               <div class="overflow-hidden rounded-lg bg-white shadow">
                 <h2 class="sr-only" id="profile-overview-title">Profile Overview</h2>
                 <div class="bg-white p-6">
@@ -211,7 +201,7 @@ const search = ref();
 
                       </div>
                       <div class="mt-4 text-center sm:mt-0 sm:pt-1 sm:text-left flex flex-col justify-center">
-                        <p class="text-xl font-bold text-gray-900 sm:text-2xl">BNI Maneblussers</p>
+                        <p class="text-xl font-bold text-gray-900 sm:text-2xl">BNI Chapters</p>
                         <p class="text-sm font-medium text-gray-600">Generaal Dewittelaan 9, gebouw 3, 2800 Mechelen</p>
                       </div>
                     </div>
@@ -229,7 +219,7 @@ const search = ref();
             </section>
 
             <!-- Actions panel -->
-            <section aria-labelledby="quick-links-title">
+            <section v-if="false" aria-labelledby="quick-links-title">
               <div class="divide-y divide-gray-200 overflow-hidden rounded-lg bg-gray-200 shadow sm:grid sm:grid-cols-2 sm:gap-px sm:divide-y-0">
                 <h2 class="sr-only" id="quick-links-title">Quick links</h2>
                 <div v-for="(tool, toolIdx) in tools" :key="tools" :class="[toolIdx === 0 ? 'rounded-tl-lg rounded-tr-lg sm:rounded-tr-none' : '', toolIdx === 1 ? 'sm:rounded-tr-lg' : '', toolIdx === tools.length - 2 ? 'sm:rounded-bl-lg' : '', toolIdx === tools.length - 1 ? 'rounded-bl-lg rounded-br-lg sm:rounded-bl-none' : '', 'group relative bg-white p-6 focus-within:ring-2 focus-within:ring-inset focus-within:ring-cyan-500']">
@@ -254,44 +244,9 @@ const search = ref();
                 </div>
               </div>
             </section>
-            <WhatsappGroups />
+            <Chapters />
           </div>
         
-          
-          <!-- Right column -->
-          <div class="grid grid-cols-1 gap-4">
-            <Responsibles :search="search" />
-
-            <!-- Recent Hires -->
-            <section v-if="false" aria-labelledby="recent-hires-title">
-              <div class="overflow-hidden rounded-lg bg-white shadow">
-                <div class="p-6">
-                  <h2 class="text-base font-medium text-gray-900" id="recent-hires-title">Recent Hires</h2>
-                  <div class="mt-6 flow-root">
-                    <ul role="list" class="-my-5 divide-y divide-gray-200">
-                      <li v-for="person in recentHires" :key="person.handle" class="py-4">
-                        <div class="flex items-center space-x-4">
-                          <div class="flex-shrink-0">
-                            <img class="h-8 w-8 rounded-full" :src="person.imageUrl" alt="" />
-                          </div>
-                          <div class="min-w-0 flex-1">
-                            <p class="truncate text-sm font-medium text-gray-900">{{ person.name }}</p>
-                            <p class="truncate text-sm text-gray-500">{{ '@' + person.handle }}</p>
-                          </div>
-                          <div>
-                            <a :href="person.href" class="inline-flex items-center rounded-full bg-white px-2.5 py-1 text-xs font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50">View</a>
-                          </div>
-                        </div>
-                      </li>
-                    </ul>
-                  </div>
-                  <div class="mt-6">
-                    <a href="#" class="flex w-full items-center justify-center rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 hover:bg-gray-50">View all</a>
-                  </div>
-                </div>
-              </div>
-            </section>
-          </div>
         </div>
       </div>
     </main>

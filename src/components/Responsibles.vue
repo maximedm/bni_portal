@@ -50,11 +50,11 @@ const responsibles = [
   subjects:
     'Bezoekers voegen waarde toe, bekijk hoe je bezoekers mee kan brengen, Gold Club erkenning',
 },
-{
+/* {
   title: 'Jan Van den Broeck',
   subjects:
     'Plan een 1-op-1 met een bezoekershost, kies een datum om een ochtend met een bezoekershost mee te lopen om deze ervaring te delen.',
-},
+}, */
 ]
 
 const filteredResponsibles = computed(() => {

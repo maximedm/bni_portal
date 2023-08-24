@@ -25,8 +25,6 @@ import {
 import { MagnifyingGlassIcon } from '@heroicons/vue/20/solid'
 import Responsibles from '../components/Responsibles.vue';
 import WhatsappGroups from '../components/WhatsappGroups.vue';
-import Layout from '../layouts/Layout.vue';
-import { ref } from 'vue';
 
 defineProps(['search']);
 
@@ -39,9 +37,25 @@ role: 'Human Resources Manager',
 imageUrl:
   'https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
 }
+const navigation = [
 
 
+{ name: 'Home', href: '#', current: true },
+{ name: 'Profile', href: '#', current: false },
+{ name: 'Resources', href: '#', current: false },
+{ name: 'Company Directory', href: '#', current: false },
+{ name: 'Openings', href: '#', current: false },
+]
+const userNavigation = [
+
+
+{ name: 'Your Profile', href: '#' },
+{ name: 'Settings', href: '#' },
+{ name: 'Sign out', href: '#' },
+]
 const stats = [
+
+
 { label: 'Elke Vrijdag 6:30'},
 /*{ label: 'Sick days left'},
 { label: 'Personal days left'},*/
@@ -164,24 +178,9 @@ const recentHires = [
 },
 ]
 
-const search = ref();
 </script>
 
 <template>
-    
-    <Layout>
-        <template #search>
-            <!-- Search -->
-            <div class="mx-auto w-full max-w-xs lg:max-w-md hidden md:block">
-                  <label for="search" class="sr-only">Search</label>
-                  <div class="relative text-white focus-within:text-gray-600">
-                    <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                      <MagnifyingGlassIcon class="h-5 w-5" aria-hidden="true" />
-                    </div>
-                    <input v-model="search" class="block w-full rounded-md border-0 bg-white/20 py-1.5 pl-10 pr-3 text-white placeholder:text-white focus:bg-white focus:text-gray-900 focus:ring-0 focus:placeholder:text-gray-500 sm:text-sm sm:leading-6" placeholder="Search" type="search" />
-                  </div>
-                </div>
-        </template>
     <main class="-mt-24 pb-8">
       <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <h1 class="sr-only">Profile</h1>
@@ -295,6 +294,5 @@ const search = ref();
         </div>
       </div>
     </main>
-    </Layout>
 </template>
 

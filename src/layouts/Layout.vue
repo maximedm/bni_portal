@@ -1,4 +1,6 @@
 <script setup>
+import axios from "axios";
+
 import {
   Menu,
   MenuButton,
@@ -23,165 +25,25 @@ import {
   XMarkIcon,
 } from '@heroicons/vue/24/outline'
 import { MagnifyingGlassIcon } from '@heroicons/vue/20/solid'
-import Dashboard from './pages/Dashboard.vue';
+import Dashboard from '../components/Dashboard.vue';
 import { ref, reactive } from 'vue';
 
-//const props = defineProps(['search']);
 
-const user = {
-
-
-  name: 'Chelsea Hagon',
-  email: 'chelsea.hagon@example.com',
-  role: 'Human Resources Manager',
-  imageUrl:
-    'https://images.unsplash.com/photo-1550525811-e5869dd03032?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-}
 const navigation = [
-
-
-  { name: 'Home', href: '#', current: true },
-  /*{ name: 'Leden', href: '#', current: false },
-  { name: 'Nieuws', href: '#', current: false },*/
-  /*{ name: 'Resources', href: '#', current: false },
-  { name: 'Company Directory', href: '#', current: false },
-  { name: 'Openings', href: '#', current: false },*/
-]
-const userNavigation = [
-
-
-  { name: 'Your Profile', href: '#' },
-  { name: 'Settings', href: '#' },
-  { name: 'Sign out', href: '#' },
-]
-const stats = [
-
-
-  { label: 'Vacation days left', value: 12 },
-  { label: 'Sick days left', value: 4 },
-  { label: 'Personal days left', value: 2 },
-]
-
-const tools = [
     {
-        image: 'https://play-lh.googleusercontent.com/ijFZqfIrFuEn1i1ZSSa7gBlr5pTZgxDnaFxIzLjkw3Scm686q6Ffcbn1YUW7fORh_8o',
-        name: 'BNI Connect',
-        description: 'BNI Connect is the official BNI app for members and visitors. It is a powerful tool that allows you to connect with other BNI members and visitors, and to share your business with them.',
-        href: '#',
-
+        name: 'Home',
+        href: '/',
+        current: true,
     },
     {
-        image: 'https://play-lh.googleusercontent.com/xHpp6bjfK3EnUUvyRZLao2zTJZ7YfOpB8pzZalf66bLrabsYnClfBFCLYiTTcZPlbY4',
-        name: 'BNI Business Builder',
-        description: 'BNI Business Builder is the official BNI app for members and visitors. It is a powerful tool that allows you to connect with other BNI members and visitors, and to share your business with them.',
-        href: '#',
+        name: 'Chapters',
+        href: '/chapters',
+        current: false,
     }
 ]
 
-const actions = [
-  {
-    icon: ClockIcon,
-    name: 'Request time off',
-    href: '#',
-    iconForeground: 'text-teal-700',
-    iconBackground: 'bg-teal-50',
-  },
-  {
-    icon: CheckBadgeIcon,
-    name: 'Benefits',
-    href: '#',
-    iconForeground: 'text-purple-700',
-    iconBackground: 'bg-purple-50',
-  },
-  {
-    icon: UsersIcon,
-    name: 'Schedule a one-on-one',
-    href: '#',
-    iconForeground: 'text-sky-700',
-    iconBackground: 'bg-sky-50',
-  },
-  {
-    icon: BanknotesIcon,
-    name: 'Payroll',
-    href: '#',
-    iconForeground: 'text-yellow-700',
-    iconBackground: 'bg-yellow-50',
-  },
-  {
-    icon: ReceiptRefundIcon,
-    name: 'Submit an expense',
-    href: '#',
-    iconForeground: 'text-rose-700',
-    iconBackground: 'bg-rose-50',
-  },
-  {
-    icon: AcademicCapIcon,
-    name: 'Training',
-    href: '#',
-    iconForeground: 'text-indigo-700',
-    iconBackground: 'bg-indigo-50',
-  },
-]
-const recentHires = [
-
-
-  {
-    name: 'Leonard Krasner',
-    handle: 'leonardkrasner',
-    imageUrl:
-      'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-  {
-    name: 'Floyd Miles',
-    handle: 'floydmiles',
-    imageUrl:
-      'https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-  {
-    name: 'Emily Selman',
-    handle: 'emilyselman',
-    imageUrl:
-      'https://images.unsplash.com/photo-1502685104226-ee32379fefbe?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-  {
-    name: 'Kristin Watson',
-    handle: 'kristinwatson',
-    imageUrl:
-      'https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-    href: '#',
-  },
-  
-]
-const announcements = [
-
-
-  {
-    id: 1,
-    title: 'Office closed on July 2nd',
-    href: '#',
-    preview:
-      'Cum qui rem deleniti. Suscipit in dolor veritatis sequi aut. Vero ut earum quis deleniti. Ut a sunt eum cum ut repudiandae possimus. Nihil ex tempora neque cum consectetur dolores.',
-  },
-  {
-    id: 2,
-    title: 'New password policy',
-    href: '#',
-    preview:
-      'Alias inventore ut autem optio voluptas et repellendus. Facere totam quaerat quam quo laudantium cumque eaque excepturi vel. Accusamus maxime ipsam reprehenderit rerum id repellendus rerum. Culpa cum vel natus. Est sit autem mollitia.',
-  },
-  {
-    id: 3,
-    title: 'Office closed on July 2nd',
-    href: '#',
-    preview:
-      'Tenetur libero voluptatem rerum occaecati qui est molestiae exercitationem. Voluptate quisquam iure assumenda consequatur ex et recusandae. Alias consectetur voluptatibus. Accusamus a ab dicta et. Consequatur quis dignissimos voluptatem nisi.',
-  },
-]
-
 const search = ref();
+
 </script>
 
 <template>
@@ -240,16 +102,8 @@ const search = ref();
                 </nav>
               </div>
               <div class="px-12 lg:px-0">
-                <!-- Search -->
-                <div class="mx-auto w-full max-w-xs lg:max-w-md hidden md:block">
-                  <label for="search" class="sr-only">Search</label>
-                  <div class="relative text-white focus-within:text-gray-600">
-                    <div class="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3">
-                      <MagnifyingGlassIcon class="h-5 w-5" aria-hidden="true" />
-                    </div>
-                    <input v-model="search" class="block w-full rounded-md border-0 bg-white/20 py-1.5 pl-10 pr-3 text-white placeholder:text-white focus:bg-white focus:text-gray-900 focus:ring-0 focus:placeholder:text-gray-500 sm:text-sm sm:leading-6" placeholder="Search" type="search" />
-                  </div>
-                </div>
+                <slot name="search"></slot>
+                
               </div>
             </div>
           </div>
@@ -315,7 +169,9 @@ const search = ref();
         </div>
       </TransitionRoot>
     </Popover>
-    <Dashboard :search="search"/>
+    
+    <slot></slot>
+
     <footer>
       <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <div class="border-t border-gray-200 py-8 text-center text-sm text-gray-500 sm:text-left"><span class="block sm:inline">&copy; {{ new Date().getFullYear() }} BNI Maneblussers.</span></div>
@@ -323,7 +179,3 @@ const search = ref();
     </footer>
   </div>
 </template>
-
-<style scoped>
-
-</style>

@@ -1,0 +1,594 @@
+[
+    {
+        "chapter": "BNI Aan de Stroom (Antwerpen) - Antwerpen",
+        "location": "Antwerpen",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=%2FTpwiAScxOv9K5eDKoWT1Q%3D%3D&name=BNI+BNI+Aan+de+Stroom+%28Antwerpen%29"
+    },
+    {
+        "chapter": "BNI aEquus (Waregem) - West Flanders",
+        "location": "Waregem",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=CuRT%2FGg818scz%2FmoiDqW4A%3D%3D&name=BNI+BNI+aEquus+%28Waregem%29"
+    },
+    {
+        "chapter": "BNI Antwerp MMC (Deurne) - Antwerpen",
+        "location": "Deurne",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=u4rh4owISrINERQ2VqiogA%3D%3D&name=BNI+BNI+Antwerp+MMC+%28Deurne%29"
+    },
+    {
+        "chapter": "BNI Antwerpen-Zuid (Wilrijk) - Antwerpen",
+        "location": "Hoboken",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=1RBz6LedXNRwjFHUgn5TFg%3D%3D&name=BNI+BNI+Antwerpen-Zuid+%28Wilrijk%29"
+    },
+    {
+        "chapter": "BNI Authentiek (Lummen) - Limburg (Belgium)",
+        "location": "Lummen",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=jGtaVImJBtxn%2BoFo7zhQDg%3D%3D&name=BNI+BNI+Authentiek+%28Lummen%29"
+    },
+    {
+        "chapter": "BNI B-Oost (Wommelgem) - Antwerpen",
+        "location": "Wommelgem",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=nOyPYG%2FCEJHeCVD%2ByZZEPA%3D%3D&name=BNI+BNI+B-Oost+%28Wommelgem%29"
+    },
+    {
+        "chapter": "BNI Beveren Waeslandhaven - East Flanders",
+        "location": "Beveren",
+        "day": "Dinsdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=XeQHoQflBxZ4Flpb4XLI%2FQ%3D%3D&name=BNI+BNI+Beveren+Waeslandhaven"
+    },
+    {
+        "chapter": "BNI Blossom (Sint-Truiden) - Limburg (Belgium)",
+        "location": "Sint-Truiden",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=94uwoYiXrZ%2BOIrObBr0Riw%3D%3D&name=BNI+BNI+Blossom+%28Sint-Truiden%29"
+    },
+    {
+        "chapter": "BNI Brabo (Stabroek) - Antwerpen",
+        "location": "Stabroek",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=GAg%2FxqXM1D6aJBIbrJpsIQ%3D%3D&name=BNI+BNI+Brabo+%28Stabroek%29"
+    },
+    {
+        "chapter": "BNI Brussels Airport - Kastze - Flemish Brabant",
+        "location": "1820 Steenokkerzeel",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=94OzxOJ8vHM81Q9lTHHaew%3D%3D&name=BNI+BNI+Brussels+Airport+-+Kastze"
+    },
+    {
+        "chapter": "BNI Business @ Lunch Time  (Hybrid Lummen) - Limburg (Belgium)",
+        "location": "Lummen",
+        "day": "Donderdag",
+        "time": "12:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=0IcHlATAeh4WtH6uJHimZA%3D%3D&name=BNI+BNI+Business+%40+Lunch+Time++%28Hybrid+Lummen%29"
+    },
+    {
+        "chapter": "BNI Cieper (Ieper) - West Flanders",
+        "location": "Ieper",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=7UwWPTK16w%2BE28uNsn3juw%3D%3D&name=BNI+BNI+Cieper+%28Ieper%29"
+    },
+    {
+        "chapter": "BNI De Goede Hoop (Wevelgem) - West Flanders",
+        "location": "Wevelgem",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=fm5NTm8EYjW0B4iEHqymiA%3D%3D&name=BNI+BNI+De+Goede+Hoop+%28Wevelgem%29"
+    },
+    {
+        "chapter": "BNI De Linde - Kempen en Arr. Mechelen",
+        "location": "Halle - Zoersel",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=KC%2FvRLyPoxtbrwNZxl0g5Q%3D%3D&name=BNI+BNI+De+Linde"
+    },
+    {
+        "chapter": "BNI De Metten (Brugge) - West Flanders",
+        "location": "Brugge",
+        "day": "Woensdag",
+        "time": "07:15",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=Le%2BXQ7A6rgyjYmLBj4YiIg%3D%3D&name=BNI+BNI+De+Metten+%28Brugge%29"
+    },
+    {
+        "chapter": "BNI De Muur Geraardsbergen - Flemish Brabant",
+        "location": "Geraardsbergen",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=f39CRlKLib%2FloKW28w24jQ%3D%3D&name=BNI+BNI+De+Muur+Geraardsbergen"
+    },
+    {
+        "chapter": "BNI De Pekker (Izegem) - West Flanders",
+        "location": "Izegem",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=WUdE5rnpTyWKjcPRLPa2wg%3D%3D&name=BNI+BNI+De+Pekker+%28Izegem%29"
+    },
+    {
+        "chapter": "BNI De Schelde (Zwijndrecht) - Antwerpen",
+        "location": "Zwijndrecht",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=LldnCwUTO1XF0RehhvFFQA%3D%3D&name=BNI+BNI+De+Schelde+%28Zwijndrecht%29"
+    },
+    {
+        "chapter": "BNI de Sleutel (Temse) - East Flanders",
+        "location": "Temse",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=DzsZFkrCCTPlygDHpzYekg%3D%3D&name=BNI+BNI+de+Sleutel+%28Temse%29"
+    },
+    {
+        "chapter": "BNI De Zwaan - Kempen en Arr. Mechelen",
+        "location": "Heist-op-den-Berg",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=8loglwBHThR8tBLOj13GjA%3D%3D&name=BNI+BNI+De+Zwaan"
+    },
+    {
+        "chapter": "BNI Demervallei (Lummen) - Limburg (Belgium)",
+        "location": "Halen",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=9v4Vm1FmGRzYqTQFIaksGg%3D%3D&name=BNI+BNI+Demervallei+%28Lummen%29"
+    },
+    {
+        "chapter": "BNI Dender-mondig (Hamme) - East Flanders",
+        "location": "Hamme",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=BiSpS1CFmFQlS9MsT0Rv3A%3D%3D&name=BNI+BNI+Dender-mondig+%28Hamme%29"
+    },
+    {
+        "chapter": "BNI Diamant (Berchem) - Antwerpen",
+        "location": "Berchem",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=jEAkYoxcqdnyLY%2F3dekXCA%3D%3D&name=BNI+BNI+Diamant+%28Berchem%29"
+    },
+    {
+        "chapter": "BNI DieLoyale (Maldegem) - East Flanders",
+        "location": "Maldegem",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=03LFAo3GZNHOEOAbsnKGWg%3D%3D&name=BNI+BNI+DieLoyale+%28Maldegem%29"
+    },
+    {
+        "chapter": "BNI Feniks - Flemish Brabant",
+        "location": "Grimbergen",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=IXrhM2msQqu0Rz3f8%2FcigQ%3D%3D&name=BNI+BNI+Feniks"
+    },
+    {
+        "chapter": "BNI Feniks (Zonnebeke) - West Flanders",
+        "location": "Zonnebeke",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=YolIzNELxL0290Iw2HpVUw%3D%3D&name=BNI+BNI+Feniks+%28Zonnebeke%29"
+    },
+    {
+        "chapter": "BNI Geel-Kempen (Laakdal) - Limburg (Belgium)",
+        "location": "Laakdal",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=UzuSbBZJszV7f8rE8njW8w%3D%3D&name=BNI+BNI+Geel-Kempen+%28Laakdal%29"
+    },
+    {
+        "chapter": "BNI Genk Forte - Limburg (Belgium)",
+        "location": "Houthalen-Helchteren",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=QUzrfwgrtrmHaGY6pncXlQ%3D%3D&name=BNI+BNI+Genk+Forte"
+    },
+    {
+        "chapter": "BNI Gent Artevelde (Gentbrugge) - East Flanders",
+        "location": "Gentbrugge",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=tWMzwAhYv8ZItTAdn63YNA%3D%3D&name=BNI+BNI+Gent+Artevelde+%28Gentbrugge%29"
+    },
+    {
+        "chapter": "BNI Gevaerts (Beernem) - West Flanders",
+        "location": "Beernem",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=Oyp5vFHNx3a0Vo9x2SC9pA%3D%3D&name=BNI+BNI+Gevaerts+%28Beernem%29"
+    },
+    {
+        "chapter": "BNI Ghent Shake (Ghent) - East Flanders",
+        "location": "Gent",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=PlZ%2FSiprxi7nY3b2TW4sIw%3D%3D&name=BNI+BNI+Ghent+Shake+%28Ghent%29"
+    },
+    {
+        "chapter": "BNI Giants Wetteren (Oordegem) - East Flanders",
+        "location": "Oordegem",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=mxvvyRT%2BAC%2Fz9ZGE92nsOQ%3D%3D&name=BNI+BNI+Giants+Wetteren+%28Oordegem%29"
+    },
+    {
+        "chapter": "BNI Groeninghe (Kortrijk) - West Flanders",
+        "location": "Harelbeke",
+        "day": "Dinsdag",
+        "time": "11:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=HmQXFbYheBwHL7XbhatjCw%3D%3D&name=BNI+BNI+Groeninghe+%28Kortrijk%29"
+    },
+    {
+        "chapter": "BNI Gulden Sporen (Kortrijk) - West Flanders",
+        "location": "Harelbeke",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=%2BBbvznA%2Bkr7nlDfyl6DXOg%3D%3D&name=BNI+BNI+Gulden+Sporen+%28Kortrijk%29"
+    },
+    {
+        "chapter": "BNI Hasselt Capital - Limburg (Belgium)",
+        "location": "Diepenbeek",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=SOnu%2FMzeFQp9wtn9knWyjA%3D%3D&name=BNI+BNI+Hasselt+Capital"
+    },
+    {
+        "chapter": "BNI Haven (Antwerpen) - Antwerpen",
+        "location": "Antwerpen",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=7wViSrTs2lbloh1rhnS3jw%3D%3D&name=BNI+BNI+Haven+%28Antwerpen%29"
+    },
+    {
+        "chapter": "BNI Hermes (Ronse) - East Flanders",
+        "location": "Ronse",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=FdbJsPgOkUY7sMnK14wsOQ%3D%3D&name=BNI+BNI+Hermes+%28Ronse%29"
+    },
+    {
+        "chapter": "BNI Houtland (Zedelgem) - West Flanders",
+        "location": "Zedelgem",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=Pvjiu1P82tb6VZjkLkgwSQ%3D%3D&name=BNI+BNI+Houtland+%28Zedelgem%29"
+    },
+    {
+        "chapter": "BNI Klein-Brabant - Kempen en Arr. Mechelen",
+        "location": "Bornem",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=%2Bfj5zCL77AtgQ96Ks8R7dg%3D%3D&name=BNI+BNI+Klein-Brabant"
+    },
+    {
+        "chapter": "BNI Knooppunt - Kempen en Arr. Mechelen",
+        "location": "Ranst (Broechem)",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=cVxc9dwqKXBq1neAp7WU0Q%3D%3D&name=BNI+BNI+Knooppunt"
+    },
+    {
+        "chapter": "BNI Land van Aalst - Flemish Brabant",
+        "location": "Aalst",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=r%2FmJbBMkK8kyJF520Ao%2FOQ%3D%3D&name=BNI+BNI+Land+van+Aalst"
+    },
+    {
+        "chapter": "BNI Leiestreek (Kruisem) - East Flanders",
+        "location": "Kruisem",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=gmuaxiogj%2Bx60b%2FivI%2F9Gw%3D%3D&name=BNI+BNI+Leiestreek+%28Kruisem%29"
+    },
+    {
+        "chapter": "BNI Lessius - Kempen en Arr. Mechelen",
+        "location": "Loenhout",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=AFDC2hxZJ0LvO21%2BLulzXg%3D%3D&name=BNI+BNI+Lessius"
+    },
+    {
+        "chapter": "BNI Leuven Artois - Flemish Brabant",
+        "location": "Leuven",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=gFDUDp5SqIrUuVJWAzcLmw%3D%3D&name=BNI+BNI+Leuven+Artois"
+    },
+    {
+        "chapter": "BNI Leuven Mercator - Flemish Brabant",
+        "location": "Haasrode",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=o72NZV%2B4JI8KJt78KxkhTw%3D%3D&name=BNI+BNI+Leuven+Mercator"
+    },
+    {
+        "chapter": "BNI Limburg Connect (Houthalen) - Limburg (Belgium)",
+        "location": "As",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=5pW1o9W6t4rv18cHWtrw4Q%3D%3D&name=BNI+BNI+Limburg+Connect+%28Houthalen%29"
+    },
+    {
+        "chapter": "BNI Lokeren Durmestad (Lokeren) - East Flanders",
+        "location": "Lokeren",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=IA2GzrXcl5WtoxJeKHKMpA%3D%3D&name=BNI+BNI+Lokeren+Durmestad+%28Lokeren%29"
+    },
+    {
+        "chapter": "BNI Maasland (Maasmechelen) - Limburg (Belgium)",
+        "location": "Maasmechelen",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=RV7%2Bv4oDrRnd2OkLv2g1jg%3D%3D&name=BNI+BNI+Maasland+%28Maasmechelen%29"
+    },
+    {
+        "chapter": "BNI Maneblussers - Kempen en Arr. Mechelen",
+        "location": "Mechelen",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=ZhmDB7vuFBQDH9QbxfTi3g%3D%3D&name=BNI+BNI+Maneblussers"
+    },
+    {
+        "chapter": "BNI Maxima (Gent) - East Flanders",
+        "location": "Gent",
+        "day": "Dinsdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=AnK1AcQldOxBP9Hgt1impQ%3D%3D&name=BNI+BNI+Maxima+%28Gent%29"
+    },
+    {
+        "chapter": "BNI Mjorebeek (Westmeerbeek) - Limburg (Belgium)",
+        "location": "Westmeerbeek",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=dhCzNswVnBOkd6nQ8KqTwg%3D%3D&name=BNI+BNI+Mjorebeek+%28Westmeerbeek%29"
+    },
+    {
+        "chapter": "BNI Netwerk Mechelen - Kempen en Arr. Mechelen",
+        "location": "Mechelen",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=u2xu6Q%2FpEiNthblRvmDBgw%3D%3D&name=BNI+BNI+Netwerk+Mechelen"
+    },
+    {
+        "chapter": "BNI NOORD! - Kempen en Arr. Mechelen",
+        "location": "Kapellen",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=aUUhFlLW%2F%2BoI0aGpNWcKew%3D%3D&name=BNI+BNI+NOORD%21"
+    },
+    {
+        "chapter": "BNI NoordLink (Lommel) - Limburg (Belgium)",
+        "location": "Pelt",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=OF8mzciSQ1%2BTBanUBGpIQg%3D%3D&name=BNI+BNI+NoordLink+%28Lommel%29"
+    },
+    {
+        "chapter": "BNI Optimus Gavere (Gavere-Semmerzake) - East Flanders",
+        "location": "Gavere-Semmerzake",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=ObtwU%2BsnPxQEZkAs%2FCMtfw%3D%3D&name=BNI+BNI+Optimus+Gavere+%28Gavere-Semmerzake%29"
+    },
+    {
+        "chapter": "BNI Oudenaarde Vlaamse Ardennen (Oudenaarde) - East Flanders",
+        "location": "Wortegem-Petegem",
+        "day": "Dinsdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=8gY5bc6KXrmolvhuPwq2TQ%3D%3D&name=BNI+BNI+Oudenaarde+Vlaamse+Ardennen+%28Oudenaarde%29"
+    },
+    {
+        "chapter": "BNI Pajottenland - Flemish Brabant",
+        "location": "Gooik",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=IaQUp45wy3rJWurfY1JycA%3D%3D&name=BNI+BNI+Pajottenland"
+    },
+    {
+        "chapter": "BNI Permeke (Jabbeke) - West Flanders",
+        "location": "Jabbeke",
+        "day": "Donderdag",
+        "time": "12:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=1Udj5Aj8jD5huavxZ2b%2BHw%3D%3D&name=BNI+BNI+Permeke+%28Jabbeke%29"
+    },
+    {
+        "chapter": "BNI Polygoon - Kempen en Arr. Mechelen",
+        "location": "Brasschaat",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=YybzmQ%2B8gXJ%2BmHdZ1Sw%2Fnw%3D%3D&name=BNI+BNI+Polygoon"
+    },
+    {
+        "chapter": "BNI Pompoenland (Kasterlee) - Limburg (Belgium)",
+        "location": "Kasterlee",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=GqdDoP7%2BDY0FV4Hf3IP0YA%3D%3D&name=BNI+BNI+Pompoenland+%28Kasterlee%29"
+    },
+    {
+        "chapter": "BNI Puyenbroeck Lochristi (Destelbergen) - East Flanders",
+        "location": "Destelbergen",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=p1RwcSeiohK3l9bjJHvbRg%3D%3D&name=BNI+BNI+Puyenbroeck+Lochristi+%28Destelbergen%29"
+    },
+    {
+        "chapter": "BNI Rodenbach (Roeselare) - West Flanders",
+        "location": "Roeselare",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=uq39274pLFRKxlftUMOqtg%3D%3D&name=BNI+BNI+Rodenbach+%28Roeselare%29"
+    },
+    {
+        "chapter": "BNI Rupel (Schelle) - Antwerpen",
+        "location": "Schelle",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=9AtHPvR%2BgZvJ09CO56w%2F7g%3D%3D&name=BNI+BNI+Rupel+%28Schelle%29"
+    },
+    {
+        "chapter": "BNI Sincfala (Knokke) - West Flanders",
+        "location": "Zuienkerke",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=T7tp9aGskgMpOJrm%2B7%2FuNA%3D%3D&name=BNI+BNI+Sincfala+%28Knokke%29"
+    },
+    {
+        "chapter": "BNI Sint-Niklaas Markt (Beveren) - East Flanders",
+        "location": "Beveren",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=LA9MJWImKqG4vQQa8lEh2w%3D%3D&name=BNI+BNI+Sint-Niklaas+Markt+%28Beveren%29"
+    },
+    {
+        "chapter": "BNI Tanneken Sconyncx (Tielt) - West Flanders",
+        "location": "Tielt",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=YVIXp8JsjtsB8gnVTcDc3A%3D%3D&name=BNI+BNI+Tanneken+Sconyncx+%28Tielt%29"
+    },
+    {
+        "chapter": "BNI Ternat De Geuzen - Flemish Brabant",
+        "location": "Ternat",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=A7vBctNjWZL81Y9D%2Bw6h6g%3D%3D&name=BNI+BNI+Ternat+De+Geuzen"
+    },
+    {
+        "chapter": "BNI UitStekend (Sint-Gillis-waas) - East Flanders",
+        "location": "Sint-Gillis-Waas",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=viZiN8AwuN%2FnF5X6FEDRDA%3D%3D&name=BNI+BNI+UitStekend+%28Sint-Gillis-waas%29"
+    },
+    {
+        "chapter": "BNI Voorkempen - Kempen en Arr. Mechelen",
+        "location": "Schilde",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=k4rqMHknJiHJ1hyfaRWbNw%3D%3D&name=BNI+BNI+Voorkempen"
+    },
+    {
+        "chapter": "BNI Witzand (Balen) - Limburg (Belgium)",
+        "location": "Balen",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=jPO318RLGXh4hQfQAy2LDg%3D%3D&name=BNI+BNI+Witzand+%28Balen%29"
+    },
+    {
+        "chapter": "BNI W€rkt Online - Flemish Brabant",
+        "location": "Roosdaal",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Permanent online",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=0AfH2a2gJHgKGWmbbPzQzg%3D%3D&name=BNI+BNI+W%E2%82%ACrkt+Online"
+    },
+    {
+        "chapter": "BNI Yzer (Koksijde) - West Flanders",
+        "location": "Oostduinkerke",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=NJmi7PbBOd7iLNUrG62VQA%3D%3D&name=BNI+BNI+Yzer+%28Koksijde%29"
+    },
+    {
+        "chapter": "BNI Zimmerstad - Kempen en Arr. Mechelen",
+        "location": "Lier",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=QL8oEp8CvpjyMylDW06XwQ%3D%3D&name=BNI+BNI+Zimmerstad"
+    },
+    {
+        "chapter": "BNI Zottegem Egmont - Flemish Brabant",
+        "location": "Zottegem-Erwetegem",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline",
+        "url": "https://bni-vlaanderen.be/nl/chapterdetail?chapterId=q2w0qAbFG1k%2FEJo2QNyReg%3D%3D&name=BNI+BNI+Zottegem+Egmont"
+    }
+]
