@@ -1,0 +1,520 @@
+[
+    {
+        "chapter": "BNI Aan de Stroom (Antwerpen) - Antwerpen",
+        "location": "Antwerpen",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI aEquus (Waregem) - West Flanders",
+        "location": "Waregem",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Antwerp MMC (Deurne) - Antwerpen",
+        "location": "Deurne",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Antwerpen-Zuid (Wilrijk) - Antwerpen",
+        "location": "Hoboken",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Authentiek (Lummen) - Limburg (Belgium)",
+        "location": "Lummen",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI B-Oost (Wommelgem) - Antwerpen",
+        "location": "Wommelgem",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Beveren Waeslandhaven - East Flanders",
+        "location": "Beveren",
+        "day": "Dinsdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Blossom (Sint-Truiden) - Limburg (Belgium)",
+        "location": "Sint-Truiden",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Brabo (Stabroek) - Antwerpen",
+        "location": "Stabroek",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Brussels Airport - Kastze - Flemish Brabant",
+        "location": "1820 Steenokkerzeel",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Business @ Lunch Time  (Hybrid Lummen) - Limburg (Belgium)",
+        "location": "Lummen",
+        "day": "Donderdag",
+        "time": "12:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Cieper (Ieper) - West Flanders",
+        "location": "Ieper",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI De Goede Hoop (Wevelgem) - West Flanders",
+        "location": "Wevelgem",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI De Linde - Kempen en Arr. Mechelen",
+        "location": "Halle - Zoersel",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI De Metten (Brugge) - West Flanders",
+        "location": "Brugge",
+        "day": "Woensdag",
+        "time": "07:15",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI De Muur Geraardsbergen - Flemish Brabant",
+        "location": "Geraardsbergen",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI De Pekker (Izegem) - West Flanders",
+        "location": "Izegem",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI De Schelde (Zwijndrecht) - Antwerpen",
+        "location": "Zwijndrecht",
+        "day": "Woensdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI de Sleutel (Temse) - East Flanders",
+        "location": "Temse",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI De Zwaan - Kempen en Arr. Mechelen",
+        "location": "Heist-op-den-Berg",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Demervallei (Lummen) - Limburg (Belgium)",
+        "location": "Halen",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Dender-mondig (Hamme) - East Flanders",
+        "location": "Hamme",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Diamant (Berchem) - Antwerpen",
+        "location": "Berchem",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI DieLoyale (Maldegem) - East Flanders",
+        "location": "Maldegem",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Feniks - Flemish Brabant",
+        "location": "Grimbergen",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Feniks (Zonnebeke) - West Flanders",
+        "location": "Zonnebeke",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Geel-Kempen (Laakdal) - Limburg (Belgium)",
+        "location": "Laakdal",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Genk Forte - Limburg (Belgium)",
+        "location": "Houthalen-Helchteren",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Gent Artevelde (Gentbrugge) - East Flanders",
+        "location": "Gentbrugge",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Gevaerts (Beernem) - West Flanders",
+        "location": "Beernem",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Ghent Shake (Ghent) - East Flanders",
+        "location": "Gent",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Giants Wetteren (Oordegem) - East Flanders",
+        "location": "Oordegem",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Groeninghe (Kortrijk) - West Flanders",
+        "location": "Harelbeke",
+        "day": "Dinsdag",
+        "time": "11:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Gulden Sporen (Kortrijk) - West Flanders",
+        "location": "Harelbeke",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Hasselt Capital - Limburg (Belgium)",
+        "location": "Diepenbeek",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Haven (Antwerpen) - Antwerpen",
+        "location": "Antwerpen",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Hermes (Ronse) - East Flanders",
+        "location": "Ronse",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Houtland (Zedelgem) - West Flanders",
+        "location": "Zedelgem",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Klein-Brabant - Kempen en Arr. Mechelen",
+        "location": "Bornem",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Knooppunt - Kempen en Arr. Mechelen",
+        "location": "Ranst (Broechem)",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Land van Aalst - Flemish Brabant",
+        "location": "Aalst",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Leiestreek (Kruisem) - East Flanders",
+        "location": "Kruisem",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Lessius - Kempen en Arr. Mechelen",
+        "location": "Loenhout",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Leuven Artois - Flemish Brabant",
+        "location": "Leuven",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Leuven Mercator - Flemish Brabant",
+        "location": "Haasrode",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Limburg Connect (Houthalen) - Limburg (Belgium)",
+        "location": "As",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Lokeren Durmestad (Lokeren) - East Flanders",
+        "location": "Lokeren",
+        "day": "Donderdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Maasland (Maasmechelen) - Limburg (Belgium)",
+        "location": "Maasmechelen",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Maneblussers - Kempen en Arr. Mechelen",
+        "location": "Mechelen",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Maxima (Gent) - East Flanders",
+        "location": "Gent",
+        "day": "Dinsdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Mjorebeek (Westmeerbeek) - Limburg (Belgium)",
+        "location": "Westmeerbeek",
+        "day": "Dinsdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Netwerk Mechelen - Kempen en Arr. Mechelen",
+        "location": "Mechelen",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI NOORD! - Kempen en Arr. Mechelen",
+        "location": "Kapellen",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI NoordLink (Lommel) - Limburg (Belgium)",
+        "location": "Pelt",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Optimus Gavere (Gavere-Semmerzake) - East Flanders",
+        "location": "Gavere-Semmerzake",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Oudenaarde Vlaamse Ardennen (Oudenaarde) - East Flanders",
+        "location": "Wortegem-Petegem",
+        "day": "Dinsdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Pajottenland - Flemish Brabant",
+        "location": "Gooik",
+        "day": "Donderdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Permeke (Jabbeke) - West Flanders",
+        "location": "Jabbeke",
+        "day": "Donderdag",
+        "time": "12:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Polygoon - Kempen en Arr. Mechelen",
+        "location": "Brasschaat",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Pompoenland (Kasterlee) - Limburg (Belgium)",
+        "location": "Kasterlee",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Puyenbroeck Lochristi (Destelbergen) - East Flanders",
+        "location": "Destelbergen",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Rodenbach (Roeselare) - West Flanders",
+        "location": "Roeselare",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Rupel (Schelle) - Antwerpen",
+        "location": "Schelle",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Sincfala (Knokke) - West Flanders",
+        "location": "Zuienkerke",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Sint-Niklaas Markt (Beveren) - East Flanders",
+        "location": "Beveren",
+        "day": "Woensdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Tanneken Sconyncx (Tielt) - West Flanders",
+        "location": "Tielt",
+        "day": "Donderdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Ternat De Geuzen - Flemish Brabant",
+        "location": "Ternat",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI UitStekend (Sint-Gillis-waas) - East Flanders",
+        "location": "Sint-Gillis-Waas",
+        "day": "Vrijdag",
+        "time": "07:00",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Voorkempen - Kempen en Arr. Mechelen",
+        "location": "Schilde",
+        "day": "Woensdag",
+        "time": "06:45",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Witzand (Balen) - Limburg (Belgium)",
+        "location": "Balen",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI W€rkt Online - Flemish Brabant",
+        "location": "Roosdaal",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Permanent online"
+    },
+    {
+        "chapter": "BNI Yzer (Koksijde) - West Flanders",
+        "location": "Oostduinkerke",
+        "day": "Vrijdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Zimmerstad - Kempen en Arr. Mechelen",
+        "location": "Lier",
+        "day": "Dinsdag",
+        "time": "06:30",
+        "type": "Offline"
+    },
+    {
+        "chapter": "BNI Zottegem Egmont - Flemish Brabant",
+        "location": "Zottegem-Erwetegem",
+        "day": "Vrijdag",
+        "time": "06:45",
+        "type": "Offline"
+    }
+]
